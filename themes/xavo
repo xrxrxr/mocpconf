@@ -1,0 +1,35 @@
+# Transparent background theme by Marcin Michałowski
+# Author: Wim Speekenbrink <w.speek@wanadoo.nl>
+
+background		= default		default
+frame			= white		default
+window_title		= white		default
+directory		= white		red	bold
+selected_directory	= white		magenta	bold
+playlist		= white		default	bold
+selected_playlist	= white		red	bold
+file			= white		default
+selected_file		= grey		magenta bold
+marked_file		= green		red	bold
+marked_selected_file	= green		magenta	bold
+info			= magenta		default	bold
+status			= magenta		default
+title			= white		default	bold
+state			= white		default	bold
+current_time		= white		default	bold
+time_left		= white		default	bold
+total_time		= white		default	bold
+time_total_frames	= magenta	default
+sound_parameters	= white		default	bold
+legend			= white		default
+disabled		= blue		default	bold
+enabled			= white		default	bold
+empty_mixer_bar		= white		default
+filled_mixer_bar	= black		magenta
+empty_time_bar		= white		default
+filled_time_bar		= black		magenta
+entry			= white		default
+entry_title		= black		magenta
+error			= red		default	bold
+message			= green		default	bold
+plist_time		= red		magenta	bold
