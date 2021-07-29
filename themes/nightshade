@@ -1,10 +1,11 @@
 ##############################################################################
 #
 # Nightshade theme (Version 6) by Dreyeth (dreyeth@openmailbox.org)
+# modified by xrxrxr
 #
 ##############################################################################
 
-background           = blue     default  normal
+background           = blue     default 
 frame                = magenta  black   normal
 window_title         = magenta  black   bold
 directory            = blue     black   normal
